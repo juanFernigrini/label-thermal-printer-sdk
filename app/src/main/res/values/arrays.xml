@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="print_quality">
+        <item>@string/print_param_default</item>
+        <item>1 (Low)</item>
+        <item>2 (Medium)</item>
+        <item>3 (High)</item>
+    </string-array>
+
+    <string-array name="print_density">
+        <item>@string/print_param_default</item>
+        <item>1 (Lighter)</item>
+        <item>2</item>
+        <item>3 (Slightly lighter)</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6 (Normal)</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12 (Darker)</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20 (Darker)</item>
+    </string-array>
+
+    <string-array name="print_speed">
+        <item>@string/print_param_default</item>
+        <item>1 (Slower)</item>
+        <item>2 (A little slower)</item>
+        <item>3 (Normal)</item>
+        <item>4 (A little faster)</item>
+        <item>5 (Faster)</item>
+    </string-array>
+
+    <string-array name="gap_type">
+        <item>@string/print_param_default</item>
+        <item>Continuous Paper</item>
+        <item>Positioning Hole</item>
+        <item>Paper with Interval</item>
+        <item>Paper with Black Mark</item>
+    </string-array>
+
+    <string-array name="test_pic_name">
+        <item>test1.png</item>
+        <item>test2.png</item>
+        <item>test3.png</item>
+        <item>test4.png</item>
+    </string-array>
+
+    <integer-array name="test_pic_orientation">
+        <item>0</item>
+        <item>90</item>
+        <item>0</item>
+        <item>90</item>
+    </integer-array>
+
+</resources>

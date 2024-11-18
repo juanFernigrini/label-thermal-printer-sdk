@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background_titlebar">#ff26587d</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="foreground_on_dark">#ffffffff</color>
+    <color name="border_color_on_light">#ff3bb3c3</color>
+    <color name="black">#ff000000</color>
+
+</resources>

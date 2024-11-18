@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">LPAPI Demo 2.1.20210202</string>
+    <string name="printer">Printer</string>
+    <string name="chinesecolon">：</string>
+    <string name="printtext">Print Text</string>
+    <string name="printtext1dbarcode">1D Barcode Text</string>
+    <string name="print2dbarcode">Print QR Code</string>
+    <string name="printbitmap">Print Image</string>
+    <string name="romupgrade">Printer Firmware Update</string>
+    <string name="noconnectprinter">Printer: Not Connected</string>
+    <string name="unsupportedbluetooth">The current device does not support Bluetooth!</string>
+    <string name="unenablebluetooth">Bluetooth adapter is not enabled!</string>
+    <string name="selectbondeddevice">Select a paired device</string>
+    <string name="setprintquality">Set Print Quality</string>
+    <string name="setprintdensity">Set Print Density</string>
+    <string name="setprintspeed">Set Print Speed</string>
+    <string name="setgaptype">Set Gap Type</string>
+    <string name="printquality">Print Quality:\n</string>
+    <string name="printdensity">Print Density:\n</string>
+    <string name="printspeed">Print Speed:\n</string>
+    <string name="gaptype">Gap Type:\n</string>
+    <string name="nowisconnectingprinter">Connecting</string>
+    <string name="connectprintersuccess">Printer connected successfully!</string>
+    <string name="connectprinterfailed">Failed to connect to the printer!</string>
+    <string name="nowisprinting">Printing label...</string>
+    <string name="printsuccess">Label printed successfully!</string>
+    <string name="printfailed">Failed to print the label!</string>
+    <string name="pleaseconnectprinter">Printer is not connected, please connect first!</string>
+    <string name="waitconnectingprinter">Connecting to printer, please wait!</string>
+    <string name="textvalue">Text Data:</string>
+    <string name="onedbarcodevalue">1D Barcode Data:</string>
+    <string name="twodbarcodevalue">QR Code Data:</string>
+    <string name="bitmappreview">Image Preview</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="defaulttextone">Shanghai Daozhen Information Technology Co., Ltd.\nDzPrinterDemo</string>
+    <string name="defaulttexttwo">Shanghai Daozhen Information Technology Co., Ltd.\nDzPrinterDemo</string>
+    <string name="defaultonedbarcode">1234567890</string>
+    <string name="defaulttwodbarcode">http://www.dothantech.com/</string>
+    <string name="print_param_default">Default Printer Settings</string>
+
+
+</resources>
